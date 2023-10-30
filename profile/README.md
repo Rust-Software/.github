@@ -1,2 +1,3 @@
-## Rust Software 🔧
-Rust Software is a new up and coming Roblox technology group. All of the free projects will be put up as a repository here.
+## Rust Software ✨
+Rust Software is a technology group on Roblox oriented towards ro-schooling with our many ro-school related assets.
+Rust Software was founded by a solo developer, [@F3NAI](https://github.com/f3nai).
